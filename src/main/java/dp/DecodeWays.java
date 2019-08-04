@@ -1,4 +1,4 @@
-package leetcode.algo.array.easy;
+package dp;
 
 /**
  * Created by BAnindita on 5/23/2017.
